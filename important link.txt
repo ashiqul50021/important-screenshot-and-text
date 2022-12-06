@@ -1,0 +1,19 @@
+image auto upload issue
+---------------------------
+https://stackoverflow.com/questions/60458108/how-can-i-upload-an-image-from-a-form-without-a-send-button-and-with-auto-refres
+
+others code link
+---------------------
+https://github.com/Abdullahmasood553/laravel-image-without-submit-button-using-ajax
+
+her youtube link
+----------------
+https://www.youtube.com/watch?v=uaYnv1VK9Zs
+
+status on off 
+----------------------
+https://www.itsolutionstuff.com/post/laravel-update-user-status-using-toggle-button-exampleexample.html
+
+image crud playlist web journey
+------------------------------------
+https://www.youtube.com/watch?v=wVAop-eKOn4&list=PLjsp2uDzfb325Bb63d-rGxsxGeKZfTHVJ&index=4
