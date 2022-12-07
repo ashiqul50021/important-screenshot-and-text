@@ -17,3 +17,7 @@ https://www.itsolutionstuff.com/post/laravel-update-user-status-using-toggle-but
 image crud playlist web journey
 ------------------------------------
 https://www.youtube.com/watch?v=wVAop-eKOn4&list=PLjsp2uDzfb325Bb63d-rGxsxGeKZfTHVJ&index=4
+
+toggle checkbox
+--------------------------
+https://www.youtube.com/watch?v=m1v9voF0fuA
