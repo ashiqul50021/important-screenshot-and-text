@@ -21,3 +21,7 @@ https://www.youtube.com/watch?v=wVAop-eKOn4&list=PLjsp2uDzfb325Bb63d-rGxsxGeKZfT
 toggle checkbox
 --------------------------
 https://www.youtube.com/watch?v=m1v9voF0fuA
+
+update table colum without losing data
+---------------------------------------
+https://www.youtube.com/watch?v=8lRUHH46gUY
