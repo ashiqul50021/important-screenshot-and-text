@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=m1v9voF0fuA
 update table colum without losing data
 ---------------------------------------
 https://www.youtube.com/watch?v=8lRUHH46gUY
+
+limit post
+---------------------
+https://devdojo.com/bobbyiliev/how-to-limit-the-result-with-laravel-eloquent
